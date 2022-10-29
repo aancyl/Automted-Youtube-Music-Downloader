@@ -1,5 +1,5 @@
 # This program downloads audio from youtube videos using Videoder.
-# IMPORTANT : please change the values according to your screen, I would recommend using https://sourceforge.net/projects/mpos/ to do so.
+# IMPORTANT : Please change the values according to your screen, I would recommend using https://sourceforge.net/projects/mpos/ to do so.
 
 import time as tm
 import pyautogui as p
